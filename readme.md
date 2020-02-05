@@ -15,3 +15,11 @@ in server.js do the following:
 8. add globals
 9. spin up server
 10. set up a get route
+
+set up our usual client files
+11. create index.html in "server/public" folder
+12. create "scripts" folder in "server/public"
+13. create "vendors" folder in "server/public"
+14. create "client.js" in "scripts" folder
+15. move jQuery into "vendors"
+16. source "client.js" and jQuery as usual
