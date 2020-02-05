@@ -17,6 +17,7 @@ in server.js do the following:
 10. set up a get route
 
 set up our usual client files
+
 11. create index.html in "server/public" folder
 12. create "scripts" folder in "server/public"
 13. create "vendors" folder in "server/public"
